@@ -1,0 +1,30 @@
+[
+ {
+  "Name": "Test",
+  "AliasName": "tst",
+  "Path": "steamid",
+  "Args": [],
+  "TimesRun": 0
+ },
+ {
+  "Name": "Test2",
+  "AliasName": "tst2",
+  "Path": "start steam://rungameid/365670",
+  "Args": [],
+  "TimesRun": 12
+ },
+ {
+  "Name": "HollowKnight",
+  "AliasName": "",
+  "Path": "start F:/GOG/Hollow Knight/hollow_knight.exe",
+  "Args": [],
+  "TimesRun": 0
+ },
+ {
+  "Name": "GRIS",
+  "AliasName": "",
+  "Path": "start steam://rungameid/262610",
+  "Args": [],
+  "TimesRun": 0
+ }
+]
